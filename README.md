@@ -75,7 +75,7 @@ diferente do outro jogador, e elas sao avaliadas atraves de uma nota de 0 a 10.
 - Projeto backend e frontend upado no github.
 - Desenho de as telas desenvolvidas no projeto, utilizando Excalidraw.
 - Nesse projeto testes e documentacao serao desconsiderados, entretanto arquitetura MSC e componentes reutilizaveis valem muitos pontos.
-- O link devera ser entregue ao email gustavoh.bh@gmail.com ate 7 dias corridos.
+- O link devera ser entregue ao email gustavoh.bh@gmail.com ate 3 dias corridos.
 
 ## Dicas
 
